@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Hi! <br><br>My name is Jason. I am a data analyst as well as a very passionate self-learner.<br><br>I am currently focused on improving my Python skills.<br>My near-term goal is integrating Python into my day-to-day responsibilities as an analyst.<br><br><br>
+Hi! My name is Jason. I am an analyst and have worked in the healthcare industry for over five years.<br>
+<br>Self-learning is a passion of mine, so paired with my interest in data analytics, I will be working to improve my skills as an analyst to derive more value in my career as well as in my life outside of just work.
+<br>I am currently focused on Python, with two month goal being to find a way to integrate Python into my day-to-day responsibilities in a meaningful way.<br>
+
+<br>
+<br>
 
 
 ## 🌐 Socials:

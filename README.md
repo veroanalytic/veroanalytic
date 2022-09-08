@@ -1,4 +1,8 @@
 <!--
+# Source for current GitHub About Me: 9/8/2022
+# https://gprm.itsvg.in/
+# https://medium.com/@developinggamer/how-i-made-my-github-profile-stand-out-d2d2bf6e98c7
+
 ### Hi there 👋
 **veroanalytic/veroanalytic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

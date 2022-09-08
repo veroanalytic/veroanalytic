@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **veroanalytic/veroanalytic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Hi, <br><br>My name is Jason and I am a data analyst.<br><br>I am currently focused on improving my Python skills.<br>My near-term goal is integrating Python into my day-to-day responsibilities as an analyst.<br><br><br>
+Hi! <br><br>My name is Jason. I am a data analyst as well as a very passionate self-learner.<br><br>I am currently focused on improving my Python skills.<br>My near-term goal is integrating Python into my day-to-day responsibilities as an analyst.<br><br><br>
 
 
 ## 🌐 Socials:

@@ -15,16 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+# 💬 About Me:
 Hi! My name is Jason. I am an analyst and have worked in the healthcare industry for over five years.<br>
 <br>Self-learning is a passion of mine, so paired with my interest in data analytics, I will be working to improve my skills as an analyst to derive more value in my career as well as value in my life outside of work.<br>
-
 <br>I am currently focused on improving my Python skills, with my two month goal being to find a way to integrate Python into my day-to-day responsibilities in a meaningful way.<br>
-
-<br>Goal date: November, 1, 2022)<br>
-
-<br>
-<br>
+<br>Goal date: November, 1, 2022<br>
 
 
 ## 🌐 Socials:

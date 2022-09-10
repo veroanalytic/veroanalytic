@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Hi! My name is Jason. I am an analyst and have worked in the healthcare industry for over five years.<br>
 <br>Self-learning is a passion of mine, so paired with my interest in data analytics, I will be working to improve my skills as an analyst to derive more value in my career as well as value in my life outside of work.
 - 🌱: I am currently focused on improving my Python skills, with my two month goal being to find a way to integrate Python into my day-to-day responsibilities in a meaningful way. (November 1, 2022)
-- 📫: If you'd like to stay in touch, feel free to reach out and follow my socials below!
+- 📫: If you'd like to stay in touch, feel free to reach out and follow me here or my socials below!
 
 <br>Thanks for visiting, and I hope you have a great day! 😄 <br> 
 

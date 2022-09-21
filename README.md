@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 # 💬 About Me:
 Hi! My name is Jason. I am an analyst and have worked in the healthcare industry for over five years.<br>
 <br>Self-learning is a passion of mine, so paired with my interest in data analytics, I will be working to improve my skills as an analyst to derive more value in my career as well as value in my life outside of work.
-- 🌱: My main focus is to improve my data analytical abilities: data importing, cleaning, exploring, visualizing and exporting. I will be primarily using Python, but I also want to start familiaring myself more with Tableau.
+- 🌱: My next area of growth will be focused on honing my ability to explore the data at my company, coming up with questions about the data, and answering those questions with visualizations. I will be primarily using Python, but I also want to start familiaring myself more with Tableau. <br>
+  
 - ⚡: <b>Personal Goals:</b><br>
-  - [ ] Provide data analysis to a stakeholder in a way through Python to answer a specific business question that they've brought to me. (November 1, 2022)
+  - [ ] Provide data analysis to a stakeholder through Python to answer a specific business question that they've brought to me. (November 1, 2022)
   - [ ] Build a Tableau dashboard. (November 1, 2022)
   - [x] Two month goal find a way to integrate Python into my day-to-day responsibilities in a meaningful way. (November 1, 2022)
-    - <b>Goal accomplished as of September, 20, 2022! </b>
-      - Automated a monthly report and created a member demographic random generator that exports to a pipe delimited .txt file, which was used for external vendor testing
+    - Goal accomplished as of September, 20, 2022!
+    - Automated a monthly report and created a member demographic random generator that exports to a pipe delimited .txt file, which was used for continuous testing with an external vendor
 - 📫: If you'd like to stay in touch, feel free to follow me here or my socials below!
 
 <br>Thanks for visiting, and I hope you have a great day! 😄 <br> 

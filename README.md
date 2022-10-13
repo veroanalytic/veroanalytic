@@ -38,7 +38,7 @@ Hi! My name is Jason. I am an analyst and have worked in the healthcare industry
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/GitHub-000000?logo=GitHub&logoColor=white)](https://github.com/veroanalytic)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/veroanalytic)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@veroanalytic) 
+<!--[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@veroanalytic) -->
 
 
 # 💻 Tech Stack:

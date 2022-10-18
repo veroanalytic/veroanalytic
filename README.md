@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 
 # 💬 About Me:
-Hi! My name is Jason. I am an analyst and have worked in the healthcare industry for over six years.<br>
+Hi! My name is Jason. I am a data analyst and have worked in the healthcare industry for over six years.<br>
 
 🌱: Self-learning is a passion of mine, so paired with my interest in data analytics, I will be working to improve my skills as an analyst to derive more value in my career as well as value in my life outside of work.<br>
 - I will be focusing my efforts towards improving my proficency with Python 🐍. Skills I am actively trying to get better at:
-  - Software design (writing cleaner code)
-  - 
-
+  - software design (writing cleaner code)
+  - Pandas (data importing, cleaning, exploration)
+  - automation (small programs to automate menial tasks at work)
  
 <!--My next area of growth will be focused on honing my ability to explore the data at my company, coming up with questions about the data, and answering those questions with visualizations. I will be primarily using Python, but I also want to start familiaring myself more with Tableau. <br> -->
   

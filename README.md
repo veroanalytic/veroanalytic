@@ -68,7 +68,10 @@ Self-learning is a passion of mine, so paired with my interest in data analytics
 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45px" height="45px">
 &nbsp
- 
+  
+<img src ="https://github.com/veroanalytic/veroanalytic/blob/main/mssqlserver.png?raw=true" width="45px" height="45px">
+&nbsp
+  
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45px" height="45px">
 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45px" height="45px"> 

@@ -3,7 +3,7 @@
 # https://gprm.itsvg.in/
 # https://medium.com/@developinggamer/how-i-made-my-github-profile-stand-out-d2d2bf6e98c7
 
-### Hi there 👋
+
 **veroanalytic/veroanalytic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,15 +18,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi there! 👋
+My name is Jason
+- 💊 I have been working as a data analyst within the healthcare industry for over six years. <br>
+- 🐍 I'm currently working on building automation through Python to automate small tasks to better optimize my time
+- 📊 I'm currently building reports leveraging my SQL abilities in exploratory data analysis, data mapping, data wrangling, and export report generation
+- 🌱 I’m currently learning better software design principles to write cleaner and easier to scale code
+
 
 # 💬 About Me:
-Hi! My name is Jason. I am a data analyst and have worked in the healthcare industry for over six years.<br>
+Self-learning is a passion of mine, so paired with my interest in data analytics, I will be working to improve my skills as an analyst to derive more value in my career as well as value in my life outside of work.<br>
 
-🌱: Self-learning is a passion of mine, so paired with my interest in data analytics, I will be working to improve my skills as an analyst to derive more value in my career as well as value in my life outside of work.<br>
+<!--
 - I will be focusing my efforts towards improving my proficency with Python 🐍. Skills I am actively trying to enhance:
   - software design (writing cleaner code)
   - Pandas (data importing, cleaning, exploration)
   - automation (small programs to automate menial tasks at work)
+-->
  
 <!--My next area of growth will be focused on honing my ability to explore the data at my company, coming up with questions about the data, and answering those questions with visualizations. I will be primarily using Python, but I also want to start familiaring myself more with Tableau. <br> -->
   

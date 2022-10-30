@@ -61,6 +61,24 @@ Self-learning is a passion of mine, so paired with my interest in data analytics
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-3670A0?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+<p>
+  
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40px" height="40px">
+&nbsp
+ 
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" height="40px"> 
+&nbsp
+
+ <!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
+&nbsp
+-->  
+  
+ </p>
 <!--# 📊 GitHub Stats: -->
 
 <!--
@@ -75,7 +93,7 @@ Self-learning is a passion of mine, so paired with my interest in data analytics
   
 
 <a href="https://github.com/veroanalytic">
-<img width="49%" title="Redirect's to veroanalytic Github" src="https://github-readme-streak-stats.herokuapp.com/?user=veroanalytic&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width="49%" title="Redirect's to veroanalytic Github" src="https://github-readme-streak-stats.herokuapp.com/?user=veroanalytic&theme=dark&theme=black-ice&stroke=00E6FE" /></a>
 
 
 <a href ="https://github.com/veroanalytic" title="Redirect's to veroanalytic Github">

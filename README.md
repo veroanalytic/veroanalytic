@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋
+# Hi there! <img src="https://github.com/veroanalytic/veroanalytic/blob/main/assets/hello.gif" width="30px">
 My name is Jason and I have been working as a data analyst within the healthcare industry for over six years. <br>
 - 🐍 I'm currently working on building automation through Python to automate small tasks to better optimize my time
 - 📊 I'm currently leveraging my SQL abilities in exploratory data analysis, data mapping, data wrangling, and report generation

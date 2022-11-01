@@ -113,9 +113,10 @@ Self-learning is a passion of mine, so paired with my interest in data analytics
 <a href ="https://github.com/veroanalytic" title="Redirect's to veroanalytic Github">
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroanalytic&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
+<!--
 <a href="https://github.com/veroanalytic/66-days-of-data" title="Redirect's to veroanalytic Github">
 <img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=veroanalytic&repo=66-days-of-data&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
-
+-->
 
 </p>
 
